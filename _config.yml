@@ -64,14 +64,14 @@ totop: true   ##show scroll-to-top in article
 author:
   intro_line1:  "Hello , this is for ifzer zone."  ## eg: "Hello ,I'm Larry Page in Google."
   intro_line2:  "ifzer for everyone erverywhere"  ## eg: "This is my blog,believe it or not."
-  weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  weibo:      020lilin ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   twitter:    ## e.g. wuchong for https://twitter.com/wuchong
-  github:     https://github.com/ivan-yin ## e.g. wuchong for https://github.com/wuchong
+  github:     ivan-yin ## e.g. wuchong for https://github.com/wuchong
   facebook:   ## e.g. wuchong for https://facebook.com/wuchong
   douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
-  email:      020lilin@gmail.com## e.g. wuchong1014@gmail.com
-  google_plus:    ## eg:111190881341800841449 for https://plus.google.com/u/0/111190881341800841449
+  email:      020lilin@gmail.com ## e.g. wuchong1014@gmail.com
+  google_plus:  110769025630537497528  ## eg:111190881341800841449 for https://plus.google.com/u/0/111190881341800841449
   stackoverflow:  ##3222790   ##e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
 ## if you set them, the corresponding  share button will show on the footer
  
